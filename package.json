@@ -1,0 +1,19 @@
+{
+  "name": "http-proxy-example",
+  "version": "0.0.1",
+  "description": "Example using http-proxy module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "http-proxy",
+    "nodejs"
+  ],
+  "author": "Mustofa <hm.dev7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
